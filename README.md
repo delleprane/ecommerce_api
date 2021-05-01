@@ -24,6 +24,7 @@
 
 # IronFit
 [Link](http://localhost/)。
+
 [Front End](http://localhost/)。
 
 # What is Iron fit?
@@ -31,6 +32,7 @@
 
 # What is Iron fit capable of doing?
 -User registration
+
 -Add, edit and delete users addresses
 -Bring all products and have more information about a specific product
 -Add and remove from favorites
