@@ -1,5 +1,10 @@
 ### Iron Fit
 
+http://localhost:3000/api
+
+
+You can test with: 
+
 ####Made by - [Fernanda](https://www.linkedin.com/in/fernanda-delleprane/") & [Kleber](https://www.linkedin.com/in/bastoskp/")
 
 # IronFit
