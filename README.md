@@ -5,7 +5,7 @@ http://localhost:3000/api
 
 You can test with: 
 
-####Made by - [Fernanda](https://www.linkedin.com/in/fernanda-delleprane/") & [Kleber](https://www.linkedin.com/in/bastoskp/")
+#### Made by - [Fernanda](https://www.linkedin.com/in/fernanda-delleprane/") & [Kleber](https://www.linkedin.com/in/bastoskp/")
 
 # IronFit
 [Link](http://localhost/)。
@@ -28,8 +28,28 @@ You can test with:
 -Trazer produtos
 
 
-# Como iniciar
-    npm start
+## Tech
+
+ Api uses:
+
+-[node.js]
+
+-[Express]
+
+
+## Installation
+
+Clone this repo
+
+No arqivo sourceadicione um aquivo .env com estas variáveis:
+
+MONGO_URI - Para o seu cluster atlas ou mongodb local TOKEN_SECRET -  jwt secret EXPIRATION_AUTH_TOKEN 
+
+Instale todas as dependências e inicie o servidor.
+
+npm i
+
+npm run dev
 
 # End Points
 
@@ -57,8 +77,28 @@ You can test with:
 
 -Bring products
 
-# Getting started
-    npm start
+# Tech
+
+ Api uses:
+
+-[node.js]
+
+-[Express]
+
+
+## Installation
+
+Clone this repo
+
+In the source folder add an .env file with this variables:
+
+MONGO_URI - for your atlas cluster or local mongodb TOKEN_SECRET - for your jwt secret EXPIRATION_AUTH_TOKEN - for setting your expiration time for jwt
+
+Install the dependencies and devDependencies and start the server.
+
+npm i
+
+npm run dev
 
 # End Points
 
